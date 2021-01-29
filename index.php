@@ -10,6 +10,6 @@
 		<a href="/baitap1/bai1.html">bai1.1</a>
 		<a href="/baitap1/GalleryOne.html">bai1.2</a>
 		<h3>Bài tập 2:</h3>
-		<a href=""></a>	
+		<a href="/baitap2/home.html"></a>	
 </body>
 </html>
