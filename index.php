@@ -7,9 +7,9 @@
 <body style="background-color: grey">
 		<h1>Các dạng bài tập đã làm:</h1>
 		<h3>Bài tập 1:</h3>
-		<a href="/baitap1/bai1.html">bai1.1</a>
-		<a href="/baitap1/GalleryOne.html">bai1.2</a>
+		<a href="/baitap1/bai1.html">Bai 1.1</a>
+		<br><a href="/baitap1/GalleryOne.html">Bai 1.2</a>
 		<h3>Bài tập 2:</h3>
-		<a href="/baitap2/home.html"></a>	
+		<a href="/baitap2/home.html">bai 2</a>	
 </body>
 </html>
