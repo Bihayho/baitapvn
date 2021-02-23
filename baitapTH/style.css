@@ -1,0 +1,33 @@
+h2 {
+	font: Arial;
+	color: #0000CC;
+}
+.form {
+	width: 100%;
+	margin-bottom: 10px;
+	display: flex;
+	box-sizing: 100%;
+}
+.main {
+	width: 400px;
+	margin: 0px auto;
+	padding: 25px;
+	display: block;
+	}
+.form label {
+	font: Arial;
+	color: #000066;
+	width: 20%;
+	float:left;
+	text-align: right;
+	margin-right: 10px;
+}
+.form input{
+	width: 70%;
+	float: left;
+	border: solid 2px ;
+
+}
+body {
+	background-color: #FFFFCC;
+}
